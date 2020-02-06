@@ -1,0 +1,44 @@
+.row{
+     background-color:black;
+     color:white;
+     font-size:20px;
+}
+.footer{   
+    background-color:black;
+    color:white;
+    font-size:50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+}
+.headshot{
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width:50%; 
+     border-radius: 50%;
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
+.codingLanguages{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%; 
+}
+.myName{
+    text-align:center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight:100;
+}
