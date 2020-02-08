@@ -42,3 +42,10 @@
     font-family: 'Open Sans', sans-serif;
     font-weight:100;
 }
+.hidden{
+    display: none;
+}
+.menu{
+    height: 30px;
+    float: left;
+}
