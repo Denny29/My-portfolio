@@ -47,5 +47,5 @@
 }
 .menu{
     height: 30px;
-    float: left;
+    justify-content: left;
 }
